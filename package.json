@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "@github/webauthn-json": "^0.4.1",
-    "parcel": "^1.12.3"
+    "parcel": "^2.8.2"
   },
   "devDependencies": {
     "cssnano": "^4.1.10",
